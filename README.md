@@ -35,3 +35,8 @@ Related Datasets
 - Adversarial Skills Network
 - Dense Object Nets
 
+# Other Interesting Repos
+
+| Repo | Paper |
+|------|-------|
+| [CUT](https://github.com/taesungp/contrastive-unpaired-translation) | [Contrastive Learning for Unpaired Image-to-Image Translation (Park et al., 2020)](http://taesung.me/ContrastiveUnpairedTranslation/) |
