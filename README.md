@@ -25,9 +25,9 @@ Related Datasets
 | Repo | Paper |
 |------|-------|
 | [C-SWM](https://github.com/tkipf/c-swm) | [Contrastive Structured World Representations (Kipf et al., 2019)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjis4L7kfbxAhWf_7sIHeq-BwcQFjABegQICBAD&url=https%3A%2F%2Farxiv.org%2Fabs%2F1911.12247&usg=AOvVaw1-d4lAt-twW0kQPRrF7mlI) |
-| [UOIS](https://github.com/chrisdxie/uois) | Unsupervised Object Instance Segmentation ( Christopher Xie et al., 2020) |
+| [UOIS](https://github.com/chrisdxie/uois) | [Unseen Object Instance Segmentation ( Christopher Xie et al., 2020)](https://arxiv.org/abs/2007.08073) |
+| [SCALOR](https://github.com/JindongJiang/SCALOR) | [SCALOR: Generative World Models with Scalable Object Representations,  (Jiang and Janghorbani et al., 2020)](https://arxiv.org/abs/1910.02384) |
 
-- SCALOR
 - AIR/ SQAIR/ R-SQAIR
 
 ### Multi-View Contrastive Learning 
