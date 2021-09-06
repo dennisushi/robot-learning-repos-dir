@@ -42,3 +42,4 @@ Related Datasets
 |------|-------|
 | [CUT](https://github.com/taesungp/contrastive-unpaired-translation) | [Contrastive Learning for Unpaired Image-to-Image Translation (Park et al., 2020)](http://taesung.me/ContrastiveUnpairedTranslation/) |
 | [DSR](https://github.com/columbia-ai-robotics/dsr) | [Learning 3D Dynamic Scene Representations for Robot Manipulation (Xu et al., 2020)](https://dsr-net.cs.columbia.edu/) |
+| [MVPC Segments](https://github.com/DBobkov/segmentation) | Unsupervised Multi-View Pointcloud Segmentation |
