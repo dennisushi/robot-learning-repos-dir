@@ -30,6 +30,12 @@ Related Datasets
 
 - AIR/ SQAIR/ R-SQAIR
 
+### Unsupervised Object Segmentation
+
+| [ARUSeg](https://github.com/Max-Manning/autoregunsupseg) | [Autoregressive Unsupervised Image
+Segmentation, (Ouali et al., 2020)](https://arxiv.org/pdf/2007.08247v1.pdf)|
+| [WNet](https://github.com/Andrew-booler/W-Net) | [W-Net: A Deep Model for Fully Unsupervised Image Segmentation, (Xia et al.)](https://arxiv.org/pdf/1711.08506v1.pdf) |
+
 ### Multi-View Contrastive Learning 
 
 - TCN
