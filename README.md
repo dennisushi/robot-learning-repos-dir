@@ -12,6 +12,7 @@ Visual Imitation Learning deals with learning robot policies through imitation o
 | [Hierarchical Imitation](https://github.com/pathak22/hierarchical-imitation/) | [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller (Sharma et al., 2019)](https://pathak22.github.io/hierarchical-imitation/) |
 | [TEC](https://github.com/stepjam/TecNets) | [Task-Embedded Control Networks for Few-Shot Imitation Learning (Stephen et al., 2018)](https://arxiv.org/abs/1810.03237) |
 | [Visual Entity Graphs](https://github.com/msieb1/visual-entity-graphs/tree/master/code) | [Graph-Structured Visual Imitation Learning (Sieb et al., 2018)](https://msieb1.github.io/visual-entity-graphs/) |
+| [Imitation from Observation](https://github.com/wyndwarrior/imitation_from_observation) | [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation, (Liu et al. 2018)](https://arxiv.org/pdf/1707.03374.pdf) |
 
 Related Datasets 
 | Name | Description |
