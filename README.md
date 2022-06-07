@@ -7,17 +7,18 @@ Visual Imitation Learning deals with learning robot policies through imitation o
 
 | Repo | Paper |
 |------|-------|
+| [Hierarchical Imitation](https://github.com/pathak22/hierarchical-imitation/) | [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller (Sharma et al., 2019)](https://pathak22.github.io/hierarchical-imitation/) |
 | [MIL](https://github.com/tianheyu927/mil) | [One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning (Yu*, Finn* et al., 2018)](https://arxiv.org/abs/1802.01557) |
 | [Zero-Shot Visual Imitation](https://github.com/pathak22/zeroshot-imitation) | [Zero-Shot Visual Imitation (Pathak et al., 2018)](https://pathak22.github.io/zeroshot-imitation)|
-| [Hierarchical Imitation](https://github.com/pathak22/hierarchical-imitation/) | [Third-Person Visual Imitation Learning via Decoupled Hierarchical Controller (Sharma et al., 2019)](https://pathak22.github.io/hierarchical-imitation/) |
 | [TEC](https://github.com/stepjam/TecNets) | [Task-Embedded Control Networks for Few-Shot Imitation Learning (Stephen et al., 2018)](https://arxiv.org/abs/1810.03237) |
 | [Visual Entity Graphs](https://github.com/msieb1/visual-entity-graphs/tree/master/code) | [Graph-Structured Visual Imitation Learning (Sieb et al., 2018)](https://msieb1.github.io/visual-entity-graphs/) |
 | [Imitation from Observation](https://github.com/wyndwarrior/imitation_from_observation) | [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation, (Liu and Gupta et al. 2018)](https://arxiv.org/pdf/1707.03374.pdf) |
 
-Related Datasets 
+Related Datasets and benchmarks
 | Name | Description |
 |------|-------------|
 | [MIME](https://www.dropbox.com/sh/hwgdkzbu488gwy4/AABPjRj_ZpNYn5WjbnkdoDKQa?dl=0&preview=README.txt) | Human and Robot Kinesthetic Demos of 20 Tasks |
+| [Ravens](https://github.com/google-research/ravens)| Visual imitation learning benchmark|
 
 ## TODO: Fill following sections
 
