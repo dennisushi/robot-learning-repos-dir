@@ -52,3 +52,4 @@ Related Datasets and benchmarks
 |------|-------|
 | [CUT](https://github.com/taesungp/contrastive-unpaired-translation) | [Contrastive Learning for Unpaired Image-to-Image Translation (Park et al., 2020)](http://taesung.me/ContrastiveUnpairedTranslation/) |
 | [DSR](https://github.com/columbia-ai-robotics/dsr) | [Learning 3D Dynamic Scene Representations for Robot Manipulation (Xu et al., 2020)](https://dsr-net.cs.columbia.edu/) |
+| [BenchBot](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2022) | Photorealistic Isaac Sim simulation |
